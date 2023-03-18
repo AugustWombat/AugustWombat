@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AugustWombat
 - 👀 I’m interested in ... keyboards
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ...  nada
 - 📫 How to reach me ... you can't! ;)
